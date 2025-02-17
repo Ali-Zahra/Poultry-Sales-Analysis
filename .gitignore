@@ -1,0 +1,8 @@
+# Ignore Excel files
+*.xls
+*.xlsx
+*.csv
+
+# Ignore Power BI files
+*.pbix
+*.pbit
